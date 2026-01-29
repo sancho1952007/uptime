@@ -7,6 +7,7 @@ sites:
     check: "tcp-ping"
     url: $HDZ_BOM_IN_IP
     port: 22
+    type: globalping
     location: Mumbai
 
 status-website:
