@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HDZ - BOM, IN",
+    "url": "$HDZ_BOM_IN_IP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hdz-bom-in",
+    "status": "down",
+    "uptime": "17.17%",
+    "uptimeDay": "17.17%",
+    "uptimeWeek": "17.17%",
+    "uptimeMonth": "17.17%",
+    "uptimeYear": "17.17%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2026-01-29": 0
+    }
+  }
+]
