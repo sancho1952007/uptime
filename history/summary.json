@@ -1,20 +1,20 @@
 [
   {
-    "name": "Example",
-    "url": "https://www.example.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.example.com.ico",
-    "slug": "example",
+    "name": "HDZ - BOM, IN",
+    "url": "$HDZ_BOM_IN_IP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hdz-bom-in",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 58,
-    "timeDay": 58,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "time": 206,
+    "timeDay": 206,
+    "timeWeek": 206,
+    "timeMonth": 206,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   }
 ]
