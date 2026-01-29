@@ -3,9 +3,10 @@ owner: sancho1952007 # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 sites:
-  - name: Example
-    url: https://www.example.com
-    port: 80
+  - name: HDZ - BOM, IN
+    check: "tcp-ping"
+    url: $HDZ_BOM_IN_IP
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
