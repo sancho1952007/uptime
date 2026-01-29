@@ -8,7 +8,7 @@ sites:
     url: $HDZ_BOM_IN_IP
     port: 22
     type: globalping
-    location: Mumbai
+    location: "India"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
