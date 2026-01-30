@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hdz-bom-in",
     "status": "down",
-    "uptime": "10.44%",
-    "uptimeDay": "10.44%",
-    "uptimeWeek": "10.44%",
-    "uptimeMonth": "10.44%",
-    "uptimeYear": "10.44%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 232,
     "timeDay": 232,
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-29": 0
+      "2026-01-30": 62,
+      "2026-01-29": 474
     }
   }
 ]
